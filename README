@@ -1,0 +1,6 @@
+txamqp from https://code.launchpad.net/txamqp
+
+* trunk checkout from 2013-05-04 18:45
+* patched with Igor Tkach's patch (modified from Thomas Burguiere's) to fix field-array for purposes of rabbitmq federation, from https://bugs.launchpad.net/txamqp/+bug/1022965 (patch at https://launchpadlibrarian.net/110254229/fixed.codec.patch)
+
+dropped in github by beevek
